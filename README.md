@@ -14,3 +14,4 @@ Finally, finish with a return other than nil that represents the purpose and del
 
 
 Extension - if you want to extend this exercise try writing a bin file that you can execute use "ruby bin/methods" in your terminal. You should be able to see the method in action!
+NB - remember that for a bin file to work you need to use require_relative. You can see an example of this in the spec_helper file.
